@@ -1,0 +1,7 @@
+浏览器输入：
+http://localhost:8080/Json_Gson_FastJson/
+http://localhost:8080/Json_Gson_FastJson//JsonServlet?action=person
+http://localhost:8080/Json_Gson_FastJson//JsonServlet?action=persons
+http://localhost:8080/Json_Gson_FastJson//JsonServlet?action=strings
+http://localhost:8080/Json_Gson_FastJson//JsonServlet?action=maps
+
